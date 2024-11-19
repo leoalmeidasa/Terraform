@@ -15,7 +15,7 @@
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes pontos:
 
 - [x] Básico de Terraform
-- [ ] Integração com AWS EC2
+- [x] Integração com AWS EC2
 - [ ] Variaveis e recursos no terraform
 - [ ] Configurações de vcp, subnet e demais regras de segurança 
 - [ ] Ter dominio do terraform junto ao AWS EC2
