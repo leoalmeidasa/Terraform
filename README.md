@@ -14,7 +14,7 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes pontos:
 
-- [x] [Básico de Terraform](1_syntax.md)
+- [x] [Básico de Terraform](basics_HCL/1_syntax.md)
 - [x] Integração com AWS EC2
 - [ ] Variaveis e recursos no terraform
 - [ ] Configurações de vcp, subnet e demais regras de segurança 
