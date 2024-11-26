@@ -19,4 +19,4 @@ resource "aws_instance" "web" {
   instance_type = "t2.micro"
 }
 ```
-Ir para: [Commands Terraform](commands.md)
+Ir para: [Commands Terraform](2_commands.md)
